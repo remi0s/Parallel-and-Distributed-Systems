@@ -5,3 +5,7 @@ The neural net serial program was originaly implemented from https://github.com/
 Both neural net program and thread pool library have been edited for the needs of this university's project.
 
 Authors Mastoras Rafail Evangelos( https://github.com/remi0s ) & Lampridis Alexandros ( https://github.com/lampralexandros )
+
+
+
+-Cuda implementation needs to be fixed.
